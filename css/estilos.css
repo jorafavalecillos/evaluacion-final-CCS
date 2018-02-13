@@ -177,9 +177,9 @@ spam a{
 		display: flex;
 		justify-content: space-around;
 		background-color: #d5c75f;
-		border: solid 2px;
+		border: solid 1px;
 	}
-
+}
  @media screen and (max-width:899px){
 	#contenido{
 		width: 100%;
@@ -202,7 +202,7 @@ spam a{
 		display: flex;
 		flex-direction: column;
 		background-color: #d5c75f;
-		border: solid 2px;
+		border: solid 1px;
 		padding-bottom: 10px;
 	}
 	header{
